@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 #### 😄 Pronouns: He/His
 #### ⚡ Fun fact: I spend many hours on mobile games and youtube everyday.
 
-#### My CV https://kelvinreinard.github.io/Quick-Profile/
+#### My CV https://kelvinreinard.github.io/CV/
