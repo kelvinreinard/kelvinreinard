@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# kelvin reinard Quick Profile
+# Kelvin Reinard Quick Profile
 
 #### 🔭 I’m currently working on Anabatic Technologies.
 #### 🌱 I’m currently learning more about Risk Technology.
