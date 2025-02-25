@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Kelvin Reinard Quick Profile
 
-#### 🔭 I’m currently working on Anabatic Technologies.
+#### 🔭 I’m currently working on Deloitte.
 #### 🌱 I’m currently learning more about Risk Technology.
 #### 👯 I’m looking into being a Tutor or Lecturer on any online events.
 #### 🤔 I’m looking for help with my Risk Management and Programming Language.
